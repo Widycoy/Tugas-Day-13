@@ -4,7 +4,7 @@ describe('Reqres API Testing - Create User', () => {
 	    method:'POST',
 	    url: 'https://reqres.in/api/users',
 	    body:{
-	      "name": "Widya Aditama ganteng",
+	      "name": "Widya Aditama ganteng banget",
 	      "job": "Quality Assurance"
 	    }
 	    }).then((response) => {
